@@ -26,10 +26,10 @@ The deliverables include a functioning EKS cluster, supporting screenshots, and 
         │   ├── user-data.tlp
         │   ├── versions.tf
         │   └── variables.tf	
-	      └── vpc-tf
+	└── vpc-tf
             ├── vpc.tf
             ├── outputs.tf
-	          ├── versions.tf
+	    ├── versions.tf
             └── variables.tf
        
 ```
